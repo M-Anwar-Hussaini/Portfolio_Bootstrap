@@ -181,6 +181,11 @@ Example:
 - ✅ Twitter: [@MAnwarHussaini](https://twitter.com/MAnwarHussaini)
 - ✅ LinkedIn: [Mohammad Anwar Hussaini](https://www.linkedin.com/in/mohammad-anwar-hussaini-876638267/)
 
+👤 **Aliza Amir**
+
+- ✅ GitHub: [@Alizaamir123](https://github.com/alizaamir123/)
+- ✅ LinkedIn: [Aliza Amir](https://www.linkedin.com/in/aliza-amir-545196215/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
