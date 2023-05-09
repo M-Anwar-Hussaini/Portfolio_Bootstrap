@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-header {
+  /* border-radius: 0 150px 0 0; */
+}
+
+.section-hero {
+  height: 80vh;
+  border-radius: 0 0 0 150px;
+}
